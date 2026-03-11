@@ -21,9 +21,9 @@ Along the frustration line $J_3 = J_2/2$, we resolved the continuous transition 
 
 ### 📊 The Physics in images
 
-<img width="200" alt="Sq" src="https://github.com/user-attachments/assets/4e715ed2-133b-4274-b478-b495ec0d1e8a" />
+<img width="300" alt="Sq" src="https://github.com/user-attachments/assets/4e715ed2-133b-4274-b478-b495ec0d1e8a" />
 
-<img width="500" alt="Capture d’écran 2026-03-11 à 12 52 34" src="https://github.com/user-attachments/assets/d503cd05-8a8f-48e2-914b-18d5b4f2f914" />
+<img width="300" alt="Capture d’écran 2026-03-11 à 12 52 34" src="https://github.com/user-attachments/assets/d503cd05-8a8f-48e2-914b-18d5b4f2f914" />
 
 <img width="300" alt="Capture d’écran 2026-03-11 à 12 54 33" src="https://github.com/user-attachments/assets/72e15861-00f9-40b1-962a-8a5b5f2ca8fd" />
 
