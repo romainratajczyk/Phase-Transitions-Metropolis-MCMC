@@ -24,6 +24,6 @@ Along the frustration line $J_3 = J_2/2$, we resolved the continuous transition 
 | Structure factor | Spin configuration | Main observables |
 | :---: | :---: | :---: |
 | <img width="510" alt="Capture d’écran 2026-03-11 à 13 09 03" src="https://github.com/user-attachments/assets/ded68e05-e5e2-43dc-b1ba-db01ff5496b7" /> | <img width="350" alt="Spin config" src="https://github.com/user-attachments/assets/d503cd05-8a8f-48e2-914b-18d5b4f2f914" /> | <img width="350" alt="Observables" src="https://github.com/user-attachments/assets/72e15861-00f9-40b1-962a-8a5b5f2ca8fd" /> |
-| *Structure factor in the spiral spin liquid phase transition.* | *Spin configuration in real space, with momentum vortices visible.* | *Main observables computation with the BKT phase transition red line (not exactly in the peaks of &chi; and C<sub>V</sub> because of the topological nature of the transition; see report for details).* |
+| *Structure factor in the spiral spin liquid phase.* | *Spin configuration in real space, with momentum vortices visible.* | *Main observables evolutions with the BKT phase transition red line (not exactly in the peaks of &chi; and C<sub>V</sub> because of the topological nature of the transition; see report for details).* |
 
 *For full methodology and detailed results, please refer to the attached PDF report.*
