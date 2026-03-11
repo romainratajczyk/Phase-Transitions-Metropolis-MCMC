@@ -575,7 +575,7 @@ for (int x = 0; x < L; ++x)
 
 
 
-        /*    // helicity modulus calculation (using real distances)
+            // helicity modulus calculation (using real distances)
             // Calcul du module d'hélicité direction x
                double helicity1_x = 0.0, helicity2_x = 0.0;
             for (int x = 0; x < L; ++x) {
@@ -672,7 +672,7 @@ for (int x = 0; x < L; ++x)
 
             // Moyenne des deux directions
             double U_avg_dir = (U_x + U_y) / 2.0;
-            sumU += U_avg_dir; */
+            sumU += U_avg_dir; 
 
             // Calcul du paramètre d'ordre nématique
             std::complex<double> O = compute_order_parameter_O(S, L);
@@ -681,7 +681,7 @@ for (int x = 0; x < L; ++x)
             //double E_incr = E_total;
             
 
-            /*double mx = 0, my = 0;
+            double mx = 0, my = 0;
             for (int x = 0; x < L; ++x)
                 for (int y = 0; y < L; ++y) {
                     mx += cos(S[x][y]);
@@ -695,7 +695,7 @@ for (int x = 0; x < L; ++x)
             sumE2 += (E_incr / (L*L)) * (E_incr / (L*L));
             
             sumM  += M;
-            sumM2 += M*M; */
+            sumM2 += M*M; 
             ++count;    
             // Affichage de la progression toutes les 5% (par exemple)
             if (step % (N_trials / 20) == 0) {
@@ -715,17 +715,17 @@ for (int x = 0; x < L; ++x)
     double O_mod = std::abs(O_avg);                    // Module de O
     double O_arg = std::arg(O_avg);                    // Argument de O 
     
-    /*double C   = beta*beta * (e2_avg - e_avg*e_avg) * (L*L);
-    double chi = beta       * (m2_avg - m_avg*m_avg) * (L*L);*/
+    double C   = beta*beta * (e2_avg - e_avg*e_avg) * (L*L);
+    double chi = beta       * (m2_avg - m_avg*m_avg) * (L*L);
 
-    /*fout << T << " "
+    fout << T << " "
          << e_avg << " "
          //<< U_avg << " "
          << m_avg << " "
          << O_mod << " "
           
          << C     << " "
-         << chi   << "\n"; */
+         << chi   << "\n"; 
     fout << T << " " << O_mod << "\n";
         
     
