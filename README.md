@@ -4,7 +4,7 @@
 
 *Internship May 1 - July 31 2025*
 
-**TL;DR:** This repository contains the C++ implementation of my tailor-made Metropolis-Hastings MCMC algorithm. It explores complex magnetic phases in the geometrically frustrated triangular XY model (e.g., Spiral Spin Liquid phase). I successfully identified the topological BKT transition and provided strong numerical evidence for momentum vortices in triangular geometry in the thermodynamic limit.
+**TL;DR:** This repository contains the C++ implementation of my tailor-made Metropolis-Hastings MCMC algorithm. It explores topological phase transitions in the geometrically frustrated triangular XY model (e.g., nematic to Spiral Spin Liquid phase with rotation symmetry breaking). I successfully identified the topological BKT transition and provided strong numerical evidence for momentum vortices in triangular geometry in the thermodynamic limit.
 
 
 
